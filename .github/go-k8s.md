@@ -1,6 +1,7 @@
 ## Golang & Kubernetes for TS
 - Kubernetes official document, see this [page](https://kubernetes.io/docs/home/) and its community see github [repo](https://github.com/kubernetes/community)
 - Tensorflow k8s, see its official github [repo](https://github.com/tensorflow/k8s)
+- glolang cmd help [page](https://golang.org/cmd/go/), e.g. `go help gopath | less`, golang github [wiki page](https://github.com/golang/go/wiki/Courses), golang example [repo](https://github.com/golang/example/), quick start see [here](https://golang.org/doc/code.html)
 - Cloud Machine Learning Engine, see this [page](https://cloud.google.com/ml-engine/docs/training-overview)
 - gRPC with go see this [tutorial](https://grpc.io/docs/tutorials/basic/go.html) and [quick start](https://grpc.io/docs/quickstart/go.html)
 - RESTful JSON API auto-gen according to gRPC, see this [page](https://github.com/grpc-ecosystem/grpc-gateway)
