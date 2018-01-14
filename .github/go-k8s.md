@@ -8,4 +8,4 @@
 - go test, see this github [repo](https://github.com/cweill/gotests) and go examples see this [repo](https://github.com/SimonWaldherr/golang-examples)
 - Using Helm to deploy to k8s, see this [page](https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/)
 - Implementation of golang, see this [gitbook](https://tracymacding.gitbooks.io/implementation-of-golang/)
-- JWT examples can ref to this blog [page](http://www.giantflyingsaucer.com/blog/?p=5994)
+- JWT examples can ref to this blog [page](http://www.giantflyingsaucer.com/blog/?p=5994) and gist see [here](https://gist.github.com/lijiansong/cb2c5e431b1dac95b35590a9a2e8e85a)
