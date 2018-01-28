@@ -9,3 +9,4 @@
 - Using Helm to deploy to k8s, see this [page](https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/)
 - Implementation of golang, see this [gitbook](https://tracymacding.gitbooks.io/implementation-of-golang/)
 - JWT examples can ref to this blog [page](http://www.giantflyingsaucer.com/blog/?p=5994) and gist see [here](https://gist.github.com/lijiansong/cb2c5e431b1dac95b35590a9a2e8e85a)
+- details about `multipart/form-data` in HTTP, checkout this [page](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition) and [here](http://www.ietf.org/rfc/rfc1867.txt)
