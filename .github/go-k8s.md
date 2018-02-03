@@ -11,3 +11,4 @@
 - JWT examples can ref to this blog [page](http://www.giantflyingsaucer.com/blog/?p=5994) and gist see [here](https://gist.github.com/lijiansong/cb2c5e431b1dac95b35590a9a2e8e85a)
 - details about `multipart/form-data` in HTTP, checkout this [page](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition) and [here](http://www.ietf.org/rfc/rfc1867.txt)
 - Go swagger, github repo <https://github.com/go-swagger/go-swagger> and docs repo <https://goswagger.io/>
+- Glide: Vendor Package Management for Golang, checkout this github repo: <https://github.com/Masterminds/glide>
