@@ -12,3 +12,4 @@
 - details about `multipart/form-data` in HTTP, checkout this [page](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition) and [here](http://www.ietf.org/rfc/rfc1867.txt)
 - Go swagger, github repo <https://github.com/go-swagger/go-swagger> and docs repo <https://goswagger.io/>
 - Glide: Vendor Package Management for Golang, checkout this github repo: <https://github.com/Masterminds/glide>
+- Authentication in Golang with JWTs, checkout this page: <https://auth0.com/blog/authentication-in-golang/>
