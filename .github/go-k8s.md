@@ -15,3 +15,4 @@
 - Authentication in Golang with JWTs, checkout this page: <https://auth0.com/blog/authentication-in-golang/>
 - Back-end design for Scalability, Availability and Stability, checkout this github repo: <https://github.com/binhnguyennus/awesome-scalability>
 - Awesome Go frameworks, libraries and software, checkout this github repo: <https://github.com/avelino/awesome-go>
+- Go performance, checout this repo: <https://github.com/dgryski/go-perfbook>
